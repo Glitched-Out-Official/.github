@@ -1,1 +1,1 @@
-<center>![Organisation Picture](/org-big.png)</center>
+<center><img src="/org-big.png" alt="Organisation Picture"></center>
